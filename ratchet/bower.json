@@ -1,0 +1,21 @@
+{
+  "name": "ratchet-demo",
+  "authors": [
+    "Dmitry Sokurenko <dmitry@sokurenko.name>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ratchet": "^2.0.2"
+  }
+}
