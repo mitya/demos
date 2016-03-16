@@ -1,10 +1,6 @@
-A small demo of the [Ratchet CSS framework](goratchet.com).
+A small demo of the [Ratchet CSS framework](http://goratchet.com).
 
-Dependencies:
-
-* Ruby and the `bundler` gem
-* Bower
-
+Dependencies: Ruby, Bundler and Bower.
 
 Running:
 
